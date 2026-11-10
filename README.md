@@ -1,1 +1,3 @@
 # phpedugram
+C:\xampp\apache\conf\extra\httpd-vhosts.conf
+C:\Windows\System32\drivers\etc\hosts
